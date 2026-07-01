@@ -10,7 +10,7 @@ My background combines 10+ years of experience in marketing, project management,
 - UX/UI design for service businesses
 - WordPress and Elementor websites
 - Wix websites
-- Webflow learning and experiments
+- Webflow websites
 - Landing pages and conversion-focused pages
 - Website audits and growth recommendations
 - SEO, GEO, and AI visibility optimization
